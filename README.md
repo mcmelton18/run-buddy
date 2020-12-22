@@ -12,3 +12,5 @@ https://mcmelton18.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Matthew Melton]
+
+### ©️2019 Run Buddy, Inc 
